@@ -34,8 +34,6 @@ Spring Boot • APIs REST • Banco de Dados • Desenvolvimento Back-end
 
 ✔ Banco de Dados
 
-✔ Arquitetura em Camadas
-
 ---
 
 ### 📫 Contato
