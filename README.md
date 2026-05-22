@@ -1,17 +1,46 @@
-## Hi there 👋
-Olá galerinha
+# Olá, eu sou a Carolina 👋
 
-<!--
-**CarolinaPerpetuo/CarolinaPerpetuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+☕ Desenvolvedora Full Stack Java em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄️ Banco de Dados • SQL • Back-end • Dados • IA
+
+🚀 Construindo projetos com Java, SQL, MySQL e tecnologia
+
+---
+
+### 💻 Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,python,js,html,css,git,github)](https://skillicons.dev)
+
+---
+
+### 🌱 Atualmente aprendendo
+
+Spring Boot • APIs REST • Banco de Dados • Desenvolvimento Back-end
+
+---
+
+### 📌 Projeto em destaque
+
+🔹 Sistema Color Hair (CRUD Java)
+
+✔ Programação Orientada a Objetos
+
+✔ Collections
+
+✔ Interfaces
+
+✔ Banco de Dados
+
+✔ Arquitetura em Camadas
+
+---
+
+### 📫 Contato
+
+LinkedIn:
+https://www.linkedin.com/in/carolinaperpetuo
+
+
