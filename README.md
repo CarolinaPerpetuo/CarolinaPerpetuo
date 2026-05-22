@@ -1,4 +1,4 @@
-# Olá, eu sou a Carolina 👋
+# Olá, eu sou a Carolina ✨
 
 💻 Estudante de Engenharia de Software
 
